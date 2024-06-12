@@ -1,0 +1,98 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(246,236,236);
+    margin: 0;
+}
+.container{
+    background-color: white;
+    border-radius: 30px;
+    height: 550px;
+    width: 350px;
+    border: 2px solid white;
+    box-shadow: 1px 1px 15px darkgrey;
+}
+.inner-container{
+          height: 30%;
+          width: 100%;
+          background-color: blue;
+          border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.ab{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 20px;
+    color: black;
+    text-align: center;
+    justify-content: center;
+}
+.bh{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 20px;
+    color: black;
+    text-align: center;
+    justify-content: center;
+}
+.abcd{
+    height: 120px;
+    border-radius: 100%;
+    border: 4px solid white;
+    margin-top: 50px;
+    outline: 4px solid blue;
+    margin-left: 110px;
+} 
+#id1{
+    height: 20px;
+    font-size: 40px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    font-weight: 30px;
+}
+#id2{
+    padding-left: 20px;
+    font-size: 40px;
+}
+#id3{
+    padding-left: 20px;
+    font-size: 40px;
+}
+#id4{
+    padding-left: 20px;
+    font-size: 40px;
+}
+button{
+    height: 40px;
+    width: 130px;
+    border: 2px solid;
+    background-color: #260dcb;
+    border-radius: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 20px;
+    padding-left: 10px;
+    color: white;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    font-weight: 20px;
+    margin-top: 10px;
+}
+pre{
+    font-size:larger;
+    font-weight: 400;
+}
+.fa-heart{
+    margin-left: 40px;
+}
+.fa-message{
+    height: 10px;
+    margin-bottom: 400px;
+}
+.fa-comment{
+      background-color: black;
+}
+    
